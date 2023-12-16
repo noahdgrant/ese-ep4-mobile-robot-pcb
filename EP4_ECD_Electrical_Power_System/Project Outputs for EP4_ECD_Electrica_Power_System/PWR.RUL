@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\noahd\OneDrive\Documents\My Files\Conestoga College\2nd Year\Winter 2023\Engineering Project 4\Schematics and PCBs\EP4_ECD_Electrical_Power_System\PWR.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

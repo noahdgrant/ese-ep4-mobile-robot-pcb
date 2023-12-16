@@ -1,0 +1,25 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [EP4_ECD_Electrica_Power_System.PrjPcb]
+   Generated File[PWR.GTL]
+   Generated File[PWR.GBL]
+   Generated File[PWR.GPB]
+   Generated File[PWR.GPT]
+   Generated File[PWR.GTO]
+   Generated File[PWR.GBO]
+   Generated File[PWR.GTS]
+   Generated File[PWR.GBS]
+   Generated File[PWR.GTP]
+   Generated File[PWR.GBP]
+   Generated File[PWR.GM]
+   Generated File[PWR.GD1]
+   Generated File[PWR.GD2]
+   Generated File[PWR.RUL]
+   Generated File[PWR.EXTREP]
+   Generated File[PWR.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 10:50:43 AM On 2023-02-20

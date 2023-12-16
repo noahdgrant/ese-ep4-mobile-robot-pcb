@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [EP4_ECD_On_Board_Comptuer.PrjPcb]
+   Generated File[OBC.GTL]
+   Generated File[OBC.G1]
+   Generated File[OBC.G2]
+   Generated File[OBC.GBL]
+   Generated File[OBC.GPB]
+   Generated File[OBC.GPT]
+   Generated File[OBC.GTO]
+   Generated File[OBC.GBO]
+   Generated File[OBC.GTS]
+   Generated File[OBC.GBS]
+   Generated File[OBC.GTP]
+   Generated File[OBC.GBP]
+   Generated File[OBC.GKO]
+   Generated File[OBC.GM]
+   Generated File[OBC.GD1]
+   Generated File[OBC.GD2]
+   Generated File[OBC.RUL]
+   Generated File[OBC.EXTREP]
+   Generated File[OBC.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 10:39:24 AM On 2023-02-20
