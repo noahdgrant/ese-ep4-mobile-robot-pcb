@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\noahd\OneDrive\Documents\My Files\Conestoga College\2nd Year\Winter 2023\Engineering Project 4\Schematics and PCBs\EP4_ECD_On_Board_Comptuer\OBC.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance Top Layer|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance Bottom Layer|Scope=Board|Minimum=8.00

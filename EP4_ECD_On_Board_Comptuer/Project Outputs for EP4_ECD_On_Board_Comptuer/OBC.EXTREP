@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: OBC.GBR   2023-02-20  10:39:18 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Copper                              
+.G1                 GND                                     
+.G2                 PWR                                     
+.GBL                Bottom Copper                           
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GBO                Bottom Overlay                          
+.GTS                Top Mask                                
+.GBS                Bottom Mask                             
+.GTP                Top Paste                               
+.GBP                Bottom Paste                            
+.GKO                Keep-Out Layer                          
+.GM                 Profile                                 
+.GD1                Non-plated through-hole drill file      
+.GD2                Plated through-hole drill file          
+------------------------------------------------------------------------------------------
